@@ -2,6 +2,9 @@
 
 # RadioSkyMap v 0.9  
 HI & 408 MHz Synchrotron Visualizer desktop software for Windows and Linux (coming soon stay tuned)
+
+![RadioSkyMap Gui on Cas A and ASCOM Hub](https://github.com/Radio-Source/RadioSkyMap/blob/main/img/radioskymap_gui00.jpg)
+
 **RadioSkyMap releases** 
 
 ## Releases:
