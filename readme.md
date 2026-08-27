@@ -2,7 +2,7 @@
 
 # RadioSkyMap   
 HI & 408 MHz Synchrotron Visualizer  
-USER GUIDE
+
 
 ## 1. Overview
 
