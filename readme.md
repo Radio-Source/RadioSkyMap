@@ -8,9 +8,22 @@ HI & 408 MHz Synchrotron Visualizer desktop software for Windows and Linux (comi
 **RadioSkyMap on Cas A with Lab Survey curve for 30m Radio Telescope, mount moved with ASCOM-Hub interface** 
 
 ## Releases:
+## Windows
 To download [RadioSkyMap\_Setup\_v0.9.zip - 2026-08-27](https://www.rmob.org/file/RadioSkyMap_Setup_v0.9.zip)
 
 To install unzip and run setup
+
+##Linux Ubuntu 26.04 & derivatives
+You can install RdioSkyMap by typing this command in a terminal :
+
+bash <(curl -s https://www.rmob.org/download/radioskymap/install.sh)
+
+The download and installation process is automatic and guided.
+
+ 
+
+If you whant remove SDR_Colorgramme v 1.0
+You can delete it by typing this command in a terminal : ~/radioskymap/uninstall.sh
 
 user guide inclued in the software (click on "?" in top bar)
 
