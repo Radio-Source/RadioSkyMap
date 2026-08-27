@@ -5,7 +5,7 @@ HI & 408 MHz Synchrotron Visualizer desktop software for Windows and Linux (comi
 **RadioSkyMap releases** 
 
 ## Releases:
-[RadioSkyMap\_Setup\_v0.9.zip (2026-08-27)](https://www.rmob.org/file/RadioSkyMap_Setup_v0.9.zip)
+To download [RadioSkyMap\_Setup\_v0.9.zip (2026-08-27)](https://www.rmob.org/file/RadioSkyMap_Setup_v0.9.zip)
 To install unzip and run setup
 user guide inclued in the software (click on "?" in top bar)
 
