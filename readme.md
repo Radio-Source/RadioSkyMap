@@ -1,7 +1,7 @@
 
 
 # RadioSkyMap   
-HI & 408 MHz Synchrotron Visualizer  
+HI & 408 MHz Synchrotron Visualizer desktop software for Windows
 
 
 ## 1. Overview
