@@ -14,7 +14,7 @@ To download [RadioSkyMap\_Setup\_v0.9.zip - 2026-08-27](https://www.rmob.org/fil
 To install unzip and run setup
 
 ## Linux Ubuntu 26.04 & derivatives
-You can install RdioSkyMap by typing this command in a terminal :
+You can install RdioSkyMap by typing this command in a terminal (be shure Curl is installed) :
 
 ```console
 bash <(curl -s https://www.rmob.org/download/radioskymap/install.sh)
