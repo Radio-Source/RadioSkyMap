@@ -15,7 +15,7 @@ The user interface is split into three main interactive sections:
 
 - **Polar Sky Map (Left Panel):** Displays a real-time 360° horizon view with cardinal points (N, E, S, W), bright stars, solar system bodies (Sun, Moon, Jupiter), and radio overlays.
 
-- **Spectra & ASCOM Panel (Right Panel):** Houses the spectral velocity profile graph (HI line at 1420.4 MHz) and the ASCOM telescope control hub with live telemetry.
+- **HI Lab Spectra & ASCOM Panel (Right Panel):** Houses the spectral velocity profile graph (HI line at 1420.4 MHz) and the ASCOM telescope control hub with live telemetry.
 
 ![RadioSkyMap Gui](https://github.com/Radio-Source/RadioSkyMap/blob/main/img/radioskymap_gui0.jpg)
 
