@@ -24,8 +24,10 @@ The download and installation process is automatic and guided.
  
 
 If you whant remove SDR_Colorgramme v 1.0
-You can delete it by typing this command in a terminal : ~/radioskymap/uninstall.sh
-
+You can delete it by typing this command in a terminal : 
+```console
+~/radioskymap/uninstall.sh
+```
 user guide inclued in the software (click on "?" in top bar)
 
 ## 1. Overview
