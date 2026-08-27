@@ -18,7 +18,7 @@ The user interface is split into three main interactive sections:
 
 - **Spectra & ASCOM Panel (Right Panel):** Houses the spectral velocity profile graph (HI line at 1420.4 MHz) and the ASCOM telescope control hub with live telemetry.
 
-![RadioSkyMap Gui](https://github.com/Radio-Source/RadioSkyMap/img/radioskymap_gui0.jpg)
+![RadioSkyMap Gui](https://github.com/Radio-Source/RadioSkyMap/blob/main/img/radioskymap_gui0.jpg)
 
 
 
@@ -76,7 +76,7 @@ You must first set up your mount and its electronics.
 The telescope mount will automatically point to the object.
 Pierre Terrier  August 2026    RadioSkyMap v 0.9
 
-![RadioSkyMap Gui](https://github.com/Radio-Source/RadioSkyMap/img/radioskymap_gui3.jpg)
+![RadioSkyMap Gui](https://github.com/Radio-Source/RadioSkyMap/blob/main/img/radioskymap_gui3.jpg)
 # RadioSkyMap   
 
 
