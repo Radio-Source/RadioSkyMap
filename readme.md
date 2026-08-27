@@ -5,7 +5,7 @@ HI & 408 MHz Synchrotron Visualizer desktop software for Windows and Linux (comi
 
 ## 1. Overview
 
-**RadioSkyMap** is an desktop application designed for radio astronomy enthusiasts and amateur astronomers. It provides a **real-time sky map **with (azimuth/elevation) overlaid with **Neutral Hydrogen (HI) emission data, 408 MHz synchrotron continuum maps**, and major celestial radio source catalogs (such as **3CR, Parkes**, and **G4Jy**). It also integrates seamlessly with **ASCOM-compliant telescope** mounts for automated tracking and pointing ("**GOTO**"), alongside spectral profile data acquisition from the **Bonn HI survey** or local databases.
+**RadioSkyMap** is an desktop application designed for radio astronomy enthusiasts and amateur astronomers. It provides a **real-time sky map **with (azimuth/elevation) overlaid with **Neutral Hydrogen (HI) emission data (Leiden/Argentine/Bonn (LAB) survey), 408 MHz synchrotron continuum maps (haslam Remazeilles 2014)**, and major celestial radio source catalogs (such as **3CR,Third Cambridge Catalogue of Radio Sources (3C Revised), Parkes PKSCAT90 - The Southern RadioSource Database**, and **GLEAM 4-Jy (G4Jy) catalog**). It also integrates seamlessly with **ASCOM-compliant telescope** mounts for automated tracking and pointing ("**GOTO**"), alongside spectral profile data acquisition from the **Leiden/Argentine/Bonn (LAB) survey** or off line local databases.
 
 ## 2. Main Interface Layout
 
