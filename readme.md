@@ -16,8 +16,9 @@ To install unzip and run setup
 ## Linux Ubuntu 26.04 & derivatives
 You can install RdioSkyMap by typing this command in a terminal :
 
+```console
 bash <(curl -s https://www.rmob.org/download/radioskymap/install.sh)
-
+```
 The download and installation process is automatic and guided.
 
  
