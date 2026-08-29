@@ -20,11 +20,14 @@ Ubuntu 26.04
 ```console
 bash <(curl -s https://www.rmob.org/download/radioskymap/install.sh)
 ```
+Ubuntu 24.04
+```console
+bash <(curl -s https://www.rmob.org/download/radioskymap/install2404.sh)
+```
 Ubuntu 22.04
 ```console
 bash <(curl -s https://www.rmob.org/download/radioskymap/install2204.sh)
 ```
-
 
 The download and installation process is automatic and guided.
 
