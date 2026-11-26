@@ -39,7 +39,7 @@ The user interface is split into three main interactive sections:
 
 ![M33 Galaxy spectra from Arecibo vs Jason Burnfield 2.4m antenna](https://github.com/Radio-Source/RadioSkyMap/blob/main/img/M33_j_burnfield_2-4m.png)
 
-Please read the user user guide (in this ghithub) to use the software  
+Please read the user guide (in this ghithub) to use the software  
 
 Pierre Terrier   2026    RadioSkyMap v 1.0
 
