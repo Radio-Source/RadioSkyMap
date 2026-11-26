@@ -33,7 +33,7 @@ The user interface is split into three main interactive sections:
 
 - **Polar Sky Map (Left Panel):** Displays a real-time 360° horizon view with cardinal points (N, E, S, W), bright stars, solar system bodies (Sun, Moon, Jupiter), and radio overlays.
 
-- **Antenna control Panel (Right Panel): the ASCOM telescope control hub with live telemetry and ** Plot of the spectral velocity profile graph (HI line at 1420.4 MHz) or HI Galaxy spectrum.
+- **Antenna control Panel (Right Panel):** the ASCOM telescope control hub with live telemetry and ** Plot of the spectral velocity profile graph (HI line at 1420.4 MHz) or HI Galaxy spectrum.
 
 Please read the user user guide (in this ghithub) to use the software  
 
