@@ -37,7 +37,7 @@ The user interface is split into three main interactive sections:
 
 ![HI line observation vs HI line form Lab Survey](https://github.com/Radio-Source/RadioSkyMap/blob/main/img/hi_line_p_terrier.png)
 
-![M33 Galaxy spectra from Arecibo vs Jason Burnfield 2.4m antenna]()
+![M33 Galaxy spectra from Arecibo vs Jason Burnfield 2.4m antenna](https://github.com/Radio-Source/RadioSkyMap/blob/main/img/M33_j_burnfield_2-4m.png)
 
 Please read the user user guide (in this ghithub) to use the software  
 
