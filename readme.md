@@ -35,6 +35,7 @@ The user interface is split into three main interactive sections:
 
 - **Antenna control Panel (Right Panel): the ASCOM telescope control hub with live telemetry and ** Plot of the spectral velocity profile graph (HI line at 1420.4 MHz) or HI Galaxy spectrum.
 
-Please read the user user guide to use the software 
-e Terrier  August 2026    RadioSkyMap v 0.9
+Please read the user user guide (in this ghithub) to use the software  
+
+Pierre Terrier   2026    RadioSkyMap v 1.0
 
