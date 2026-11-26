@@ -1,9 +1,9 @@
 
 
-# RadioSkyMap v 0.92  
+# RadioSkyMap v 1.0  
 HI & 408 MHz Synchrotron Visualizer desktop software for Windows 10-11 and Linux ubuntu 26.04
 
-![RadioSkyMap Gui on Cas A and ASCOM Hub](https://github.com/Radio-Source/RadioSkyMap/blob/main/img/radioskymap_gui00.jpg)
+![RadioSkyMap Gui on Cas A and ASCOM Hub](https://github.com/Radio-Source/RadioSkyMap/blob/main/img/radioskymap.png)
 
 **RadioSkyMap on Cas A with Lab Survey curve for 30m Radio Telescope, mount moved with ASCOM-Hub interface** 
 
