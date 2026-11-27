@@ -5,7 +5,7 @@ HI & 408 MHz Synchrotron Visualizer desktop software for Windows 10-11 and Linux
 
 ![RadioSkyMap Gui on Cas A and ASCOM Hub](https://github.com/Radio-Source/RadioSkyMap/blob/main/img/RadioSkyMap.png)
 
-**RadioSkyMap on Cas A with Lab Survey curve for 30m Radio Telescope, mount moved with ASCOM-Hub interface** 
+**RadioSkyMap on Cas A with Lab Survey curve for 6m Radio Telescope, mount moved with ASCOM-Hub interface** 
 
 ## Releases:
 ## Windows 7-10-11
