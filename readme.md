@@ -5,7 +5,7 @@ HI & 408 MHz Synchrotron Visualizer desktop software for Windows 10-11 and Linux
 
 ![RadioSkyMap Gui on Cas A and ASCOM Hub](https://github.com/Radio-Source/RadioSkyMap/blob/main/img/RadioSkyMap.png)
 
-**RadioSkyMap on Cas A with Lab Survey curve for 30m Radio Telescope, mount moved with ASCOM-Hub interface** 
+**RadioSkyMap on Cas A with Lab Survey curve for 6m Radio Telescope, mount moved with USB relay and arduino nano 33 ble interface** 
 
 ## Releases:
 ## Windows 7-10-11
@@ -13,8 +13,13 @@ To download [RadioSkyMap\_Setup\_v1.0.zip - 2026-11-26](https://www.rmob.org/fil
 
 To install unzip and run setup
 
-## Linux Ubuntu & derivatives (Not available now please wait)
+## Linux Ubuntu & derivatives
+You can install RdioSkyMap by typing this command in a terminal (be shure Curl is installed) :
 
+Ubuntu 26.04
+```console
+bash <(curl -s https://www.rmob.org/download/radioskymap/install.sh)
+```
 
 ------------------------------------------------------------
 
@@ -33,9 +38,13 @@ The user interface is split into three main interactive sections:
 
 - **Polar Sky Map (Left Panel):** Displays a real-time 360° horizon view with cardinal points (N, E, S, W), bright stars, solar system bodies (Sun, Moon, Jupiter), and radio overlays.
 
-- **Antenna control Panel (Right Panel): the ASCOM telescope control hub with live telemetry and ** Plot of the spectral velocity profile graph (HI line at 1420.4 MHz) or HI Galaxy spectrum.
+- **Antenna control Panel (Right Panel):** the ASCOM telescope control hub with live telemetry and Plot of the spectral velocity profile graph (HI line at 1420.4 MHz) or HI Galaxy spectrum.
 
-Please read the user user guide (in this ghithub) to use the software  
+![HI line observation vs HI line form Lab Survey](https://github.com/Radio-Source/RadioSkyMap/blob/main/img/hi_line_p_terrier.png)
+
+![M33 Galaxy spectra from Arecibo vs Jason Burnfield 2.4m antenna](https://github.com/Radio-Source/RadioSkyMap/blob/main/img/M33_j_burnfield_2-4m.png)
+
+Please read the user guide (in this ghithub) to use the software  
 
 Pierre Terrier   2026    RadioSkyMap v 1.0
 
